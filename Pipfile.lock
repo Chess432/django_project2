@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "70aaa0447dcbb3060a410b12faf7ca36e59d5b2444fc8661c3e0b44c7c6a6309"
+            "sha256": "85dc121c684e90f7b11695e13477af6c8ec1ff99b042be1f4039fd8f653c9474"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.6"
+            "python_version": "3.8"
         },
         "sources": [
             {
@@ -26,10 +26,10 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:303879e36b721603cc54604edcac9d20401bdbe31e1e4fdee5b9f98d5d31dfda",
-                "sha256:d747dd3d23d77ef44c6a3526e274af6efeb0a6f1afd5a69ba4d5be4098c8e141"
+                "sha256:1c557d7d0e871de1f5ccd5833f60fb2550652da6be2693c1e02300743d21500d",
+                "sha256:b02c06db6cf09c12dd25137e563b31700d3b80fcc4ad23abb7a315f2789819be"
             ],
-            "version": "==2019.1"
+            "version": "==2019.3"
         },
         "sqlparse": {
             "hashes": [
